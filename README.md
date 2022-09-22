@@ -1,4 +1,3 @@
-# -embedded.ai
 
 # Um Resumo sobre o  artigo TinyMLOps: Operational Challenges for Widespread Edge AI Adoption 
 
